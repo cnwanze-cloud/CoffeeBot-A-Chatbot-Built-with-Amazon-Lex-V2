@@ -211,3 +211,4 @@ To avoid charges when you're finished:
 ## License
 
 MIT License
+Copyright (c) 2026 cnwanze-cloud
