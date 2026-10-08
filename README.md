@@ -210,4 +210,4 @@ To avoid charges when you're finished:
 
 ## License
 
-Add a license of your choice (for example MIT) before sharing the project publicly.
+MIT License
