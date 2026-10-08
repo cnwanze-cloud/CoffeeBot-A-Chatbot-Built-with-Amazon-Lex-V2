@@ -1,0 +1,38 @@
+# ---------- Secrets and credentials (never commit these) ----------
+.env
+.env.*
+*.env
+.aws/
+credentials
+config
+*.pem
+*.key
+*.csv
+secrets.json
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# ---------- Virtual environments ----------
+venv/
+.venv/
+env/
+
+# ---------- Build and packaging artifacts ----------
+build/
+dist/
+*.zip
+
+# ---------- Editors and OS files ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Logs ----------
+*.log
